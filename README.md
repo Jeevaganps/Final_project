@@ -14,8 +14,9 @@ Today Data Analysis has become a major in businesses, research, metrological dep
    import numpy as np
    import matplotlib.pyplot as plt
    import seaborn as sns
+
  
-# Salary-Prediction-for-Job-Postings-Kaggle-Competition
+**## Salary-Prediction-for-Job-Postings-Kaggle-Competition**
 
 ## About
 
